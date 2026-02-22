@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-02-22T14:24:26.863Z
-Commit: Fix race condition in async operations
+Timestamp: 2026-02-22T14:24:29.610Z
+Commit: Resolve null pointer exception in user service
